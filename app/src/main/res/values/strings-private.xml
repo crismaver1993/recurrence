@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Recurrence</string>
+    <string name="app_name" translatable="false">Reminder</string>
 
     <string name="developer_name" translatable="false">Jonas Bleyl</string>
     <string name="email" translatable="false">bleyl.android@gmail.com</string>
